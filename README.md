@@ -1,4 +1,4 @@
-# 使用Vue3和Vite构建的realworld项目
+# 使用Vue3、Vite和TypeScript构建的realworld项目
 
 [realworld 仓库地址](https://github.com/gothinkster/realworld)
 
@@ -7,6 +7,7 @@
 - Vue-router next
 - Vuex next
 - Axios
+- TypeScript
 
 ```bash
 yarn
